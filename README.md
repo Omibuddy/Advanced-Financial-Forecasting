@@ -7,7 +7,8 @@ ETL/Orchestration: Python and Apache Airflow.
 
 ---
 ## 📌 Overview  
-This README covers the setup and implementation of the **data ingestion and ETL pipeline** for the financial forecasting system. By the end of Week 1, you'll have a working pipeline that:  
+This README covers the setup and implementation of the **data ingestion and ETL pipeline** for the financial forecasting system.
+1, working pipeline:  
 1. Fetches high-frequency financial data from an API (e.g., Alpha Vantage).  
 2. Cleans and transforms the data.  
 3. Stores it in a PostgreSQL database with TimescaleDB for time-series optimization.  
